@@ -6,7 +6,7 @@
 
 Aqui você pode encontrar os arquivos do ebook para visualização e download direto do repositório.
 
- **PDF:** [A-Nova-Linguagem-do-Futuro.pdf](Ebook/A-Nova-Linguagem-do-Futuro.pdf)
+ **PDF:** [A-Nova-Linguagem-do-Futuro.pdf]([Ebook/A Nova Linguagem-do-Futuro.pdf](https://github.com/MarceloAC19/ebook-pormpt-engineering-for-those-who-don-t-know-how-to-use-it/blob/main/Ebook/A%20Nova%20Linguagem%20do%20Futuro%20-%20ebook.pdf)
 
 > Learn how to communicate with artificial intelligence and master this digital revolution.
 
