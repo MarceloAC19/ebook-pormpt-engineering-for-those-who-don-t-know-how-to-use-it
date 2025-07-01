@@ -2,6 +2,12 @@
 
 # 📖 The New Language of the Future: An Ebook on Prompt Engineering
 
+## 📚 Downloads do Ebook
+
+Aqui você pode encontrar os arquivos do ebook para visualização e download direto do repositório.
+
+ **PDF:** [A-Nova-Linguagem-do-Futuro.pdf](Ebook/A-Nova-Linguagem-do-Futuro.pdf)
+
 > Learn how to communicate with artificial intelligence and master this digital revolution.
 
 ## 🚀 About the Project
